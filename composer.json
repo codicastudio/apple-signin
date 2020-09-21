@@ -15,10 +15,10 @@
         }
     ],
     "suggest": {
-        "codicastudio/socialpersistance": "Automatic user resolution and persistence for any Laravel Socialite driver."
+        "codicastudio/socialpersistance": "Automatic user resolution and persistence for any Socialite driver."
     },
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "illuminate/support": "^8.0",
         "laravel/socialite": "^5.0"
     },
