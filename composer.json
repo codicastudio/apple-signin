@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/applesignin",
+    "name": "codica-studio/applesignin",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/applesignin",
+    "homepage": "https://github.com/codica-studio/applesignin",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "suggest": {
-        "codicastudio/socialpersistance": "Automatic user resolution and persistence for any Socialite driver."
+        "codica-studio/socialpersistance": "Automatic user resolution and persistence for any Socialite driver."
     },
     "require": {
         "php": ">=7.4",
